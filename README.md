@@ -17,7 +17,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Functionality overview
 
-The example application is a social Learning site called "Learning Spaces". It uses a custom API for all requests, including authentication. You can view a live demo over at https://learningspaces.mybluemix.net/
+The example application is a social Learning site called "Learning Spaces". It uses a custom API for all requests, including authentication. You can view a live demo over at https://learningspaces1.mybluemix.net/
 
 **General functionality:**
 
